@@ -1,0 +1,6 @@
+{
+  "u1": { "user": "John", "age":22, "country":"united states"},
+  "u2": { "user": "Peter", "age":23, "country":"Philippines"},
+  "u3": { "user": "Moses", "age":24, "country":"Iran"}
+
+}
